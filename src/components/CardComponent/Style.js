@@ -11,7 +11,6 @@ export const styleNameProduct = styled.div`
   font-weight: 400;
   font-size: 12px;
   line-height: 16px;
-
   color: rgb(56, 56, 61);
 `;
 export const WrapperReporText = styled.div`

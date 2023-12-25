@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  styleNameProduct,
-  WrapperReporText,
-  WrapperPricText,
-  WrapperCardStyle,
-} from "./Style";
+import { WrapperReporText, WrapperPricText, WrapperCardStyle } from "./Style";
 
 import { StarFilled } from "@ant-design/icons";
 const CardComponent = () => {
